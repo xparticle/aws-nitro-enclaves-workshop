@@ -8,3 +8,5 @@ These instructions are for adding a local copy of the Hugo Learn theme to your d
 3. From the workshop directory run `hugo serve` to build the local environment using Hugo.
 
 Note: The Hugo Learn theme is an open source project and not maintained by AWS. Every attempt was made to standardize this workshop content to run with the Hugo Learn theme at the time of publication.
+
+Trigger the webhook to Amazon apigateway
